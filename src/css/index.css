@@ -104,8 +104,6 @@
 /* =========================
    Loader (text version)
    ========================= */
-/* Loader */
-/* Loader (текст вместо кружка) */
 .loader {
   display: none;
   font-family: 'Montserrat', sans-serif;
@@ -118,8 +116,6 @@
 .loader.active {
   display: block;
 }
-
-
 
 @keyframes fadeIn {
   from {
